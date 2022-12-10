@@ -13,7 +13,7 @@ const Me = {
   firstname: 'Marcos Antonio',
   lastname: 'Aguado',
   nationality: 🇦🇷,
-  age: 23,
+  age: 24,
   pronouns: ['he', 'him', 'his'],
   code: [Javascript, HTML, CSS, SQL],
   tools: [React, Node, Styled-Components]
